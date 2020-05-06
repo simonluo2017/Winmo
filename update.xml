@@ -1,0 +1,11 @@
+﻿<?xml   version="1.0" encoding="utf-8"   ?>
+<Manifest version="2">
+  <CheckInterval>900</CheckInterval>
+  <RemoteConfigUri>https://raw.githubusercontent.com/simonluo2017/Winmo/master/update.xml</RemoteConfigUri>
+  <SecurityToken>2408AB1B-D454-4DCB-B031-42E185C4B28F</SecurityToken>
+  <BaseUri>https://raw.githubusercontent.com/simonluo2017/Winmo/master/</BaseUri>
+  <Payload>Winmo.zip</Payload>
+  <StartUpExe>Winmo\Winmo.exe</StartUpExe>
+  <TimeStampeFileCheckEnabled>False</TimeStampeFileCheckEnabled>
+</Manifest>
+
